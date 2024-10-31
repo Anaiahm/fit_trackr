@@ -31,12 +31,6 @@
   | **Meal Details**| ![Meal Details](src/assets/mealdetails.png)                 |
 
 
-  ## 🚀 Get Started
-  Ready to get Fit? Check out Fittrackr now! :muscle: <br>
-  [Fittrackr](Insert Deployed App) <br>
-  
-  Or, Peek Behind the Scenes of Our Planning Journey! :pencil2::notebook: <br>
-  [Fittrackr Trello board](https://trello.com/invite/b/66e368b8eca7f8370b68a4ff/ATTIe655613435427517da21df36d6c0aebcB98F5860/fittrakr)
 
   ## 🖥️ Technologies Used
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
